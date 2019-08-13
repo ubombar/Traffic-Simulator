@@ -10,3 +10,5 @@ Traffic Simulator is a software, capable of simulating traffic and living condit
 
 ## Documentation
 Usage of the system will be documented along with the development proess. [User Report](/documents/UserReport.pdf) should provide an overview and description on usage for users.
+
+~ NOTE: This project will not be in development until the end of September 2019.
