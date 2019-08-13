@@ -6,24 +6,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Functional Requirements}{3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.1}Visualization of Data}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.2}Custimization of Source}{3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.3}Real Time Display}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Nonfunctional Requirements}{3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.1}Usability}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.2}Performance}{3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.3}Availability}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.4}Data Integrity}{3}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}System Models}{3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Glossary}{3}% 
+\contentsline {paragraph}{}{3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}References}{3}% 
+\contentsline {section}{\numberline {4}Glossary}{4}% 

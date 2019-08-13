@@ -16,27 +16,5 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}
-  \entry{mybook}{book}{}
-    \name{author}{1}{}{%
-      {{hash=OTE}{%
-         family={Oliphant},
-         familyi={O\bibinitperiod},
-         given={Travis\bibnamedelima E.},
-         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Continium Press}%
-    }
-    \strng{namehash}{OTE1}
-    \strng{fullhash}{OTE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{O}
-    \field{sortinithash}{O}
-    \field{title}{Guide to NumPy: 2nd Edition}
-    \field{year}{2015}
-  \endentry
-\enddatalist
+\datalist[entry]{nty/global//global/global}\enddatalist
 \endinput
